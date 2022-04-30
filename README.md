@@ -76,12 +76,4 @@
     </td>
   </tr>
   
- <!-- Actual text -->
-
-  Check out where I've worked on  [![LinkedIn][1.2]][1]
-
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/rohan-khera/
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
